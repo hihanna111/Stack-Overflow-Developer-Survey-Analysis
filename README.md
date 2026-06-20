@@ -33,4 +33,4 @@ This project analyzes data from the Stack Overflow Developer Survey to explore d
 - Remote work is highly prevalent among developers.
 - Online courses are a popular learning resource.
 - Compensation varies significantly across countries.
-- High-paying remote positions are concentrated in specific industries.
+- High-paying remote positions are concentrated in Software Development.
